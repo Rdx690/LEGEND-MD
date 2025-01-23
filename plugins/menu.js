@@ -53,7 +53,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
@@ -254,7 +254,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
@@ -310,7 +310,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
@@ -361,7 +361,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
@@ -425,7 +425,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
@@ -474,7 +474,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363391326900797@newsletter',
-                        newsletterName: '♛︎Legend-MD࿐',
+                        newsletterName: '♛︎Legend-◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡࿐',
                         serverMessageId: 143
                     }
                 }
